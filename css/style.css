@@ -224,9 +224,11 @@ img {
   padding-bottom: 0;
 }
 .intro .content-text {
-  position: relative;
-  top: -35px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
+
 .intro .entry {
   padding: 0;
 }
