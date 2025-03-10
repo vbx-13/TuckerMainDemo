@@ -40,6 +40,12 @@ h2 {
   margin-bottom: 20px;
 }
 
+.center {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
 h3 {
   font-size: 28px;
   font-weight: 700;
