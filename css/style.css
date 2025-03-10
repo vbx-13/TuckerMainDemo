@@ -40,6 +40,12 @@ h2 {
   margin-bottom: 20px;
 }
 
+.center {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
 h3 {
   font-size: 28px;
   font-weight: 700;
@@ -222,7 +228,7 @@ img {
   top: -35px;
 }
 .intro .entry {
-  padding: 0 100px;
+  padding: 0;
 }
 .intro .entry .button {
   margin-top: 20px;
